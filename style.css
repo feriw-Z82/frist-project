@@ -47,4 +47,18 @@ header
     height:150px ;
     width:420px ;
 }
+.logo{
+    height:90px ;
+    width:60px ;
+}
+.tah{
+    color: #9a81ab;
+}
+footer{
+    background-image: linear-gradient(50deg, #bbbbbb, #bbbbbb);
+}
+.ertebat{
+    height:100px ;
+    width:75px ;
+}
 
