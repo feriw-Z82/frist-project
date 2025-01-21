@@ -23,7 +23,7 @@ header
 
 }
 .banner-pic{
-    height:310px;
+    height:390px;
     margin-top: 1cm;
 }
 
@@ -61,4 +61,26 @@ footer{
     height:100px ;
     width:75px ;
 }
-
+.aboutl{
+    width: 550px;
+    height:250px;
+}
+.personeli{
+    width: 100px;
+    height:120px;
+}
+.anime{
+    width: 200px;
+    height: 200px;
+}
+.animee{
+    width: 150px;
+    height: 150px;
+}
+.mahsol{
+    width: 400px;
+    height: 400px;
+}
+.mahsol{
+    font-size: 45rem;
+}
